@@ -1,0 +1,12 @@
+name: ${project.name}
+main: ${project.groupId}.${project.name}
+api-version: 1.13
+
+version: ${project.version}
+author: BitterOrange
+
+commands:
+  fmr:
+    description: FiveMinutesRule Commands
+    usage: |
+      /fmr

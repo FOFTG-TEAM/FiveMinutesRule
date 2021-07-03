@@ -1,0 +1,4 @@
+org\bitterorange\fiveminutesrule\FiveMinutesRule.class
+org\bitterorange\fiveminutesrule\FiveMinutesRuleCommand.class
+org\bitterorange\fiveminutesrule\FiveMinutesRuleTabCompleter.class
+org\bitterorange\fiveminutesrule\FiveMinutesRuleListener.class
