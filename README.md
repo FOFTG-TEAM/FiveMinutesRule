@@ -1,2 +1,2 @@
 # FiveMinutesRule
- A minecraft game rule put forward in 5 minutes
+ A minecraft game rule put forward within 5 minutes
